@@ -1,0 +1,24 @@
+{
+  "name": "bubbleup",
+  "version": "0.0.1",
+  "description": "Execute a specific operation while moving towards the parent directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wachaon/bubbleUp.git"
+  },
+  "keywords": [
+    "wes",
+    "wsh",
+    "filesystem"
+  ],
+  "author": "wachaon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wachaon/bubbleUp/issues"
+  },
+  "homepage": "https://github.com/wachaon/bubbleUp#readme"
+}
